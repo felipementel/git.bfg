@@ -76,3 +76,12 @@ java -jar bfg.jar --strip-blobs-bigger-than 100M my-repo.git
 ````
 (Onde my-repo.git é o seu repositório Git local.)
 
+
+# Oficial Website
+````
+https://rtyley.github.io/bfg-repo-cleaner/
+````
+# GitHub (how to use)
+````
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository#using-the-bfg
+````
